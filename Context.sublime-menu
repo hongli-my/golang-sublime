@@ -1,0 +1,10 @@
+[
+    {
+        "command": "gotools_goto_def",
+        "caption": "GoTools: Go to definition"
+    },
+    {
+        "command": "gotools_lint",
+        "caption": "GoTools: lint"
+    }
+]
