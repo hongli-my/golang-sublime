@@ -5,7 +5,7 @@
 
   // A formatting backend (must be either 'gofmt', 'goimports' or 'both').
   // The 'both' option will first run 'goimports' then 'gofmt'
-  "format_backend": "both",
+  "format_backend": "gofmt",
 
   // Lint source files each time they're saved.
   "lint_on_save": true,

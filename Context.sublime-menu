@@ -6,5 +6,9 @@
     {
         "command": "gotools_lint",
         "caption": "GoTools: lint"
+    },
+    {
+        "command": "gotools_goimports",
+        "caption": "GoTools: goimport"
     }
 ]
